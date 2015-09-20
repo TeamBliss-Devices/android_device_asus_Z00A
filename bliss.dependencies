@@ -70,5 +70,18 @@
   "repository": "CM-zenfone2/android_hardware_intel_img_psb_video",
   "target_path": "hardware/intel/img/psb_video",
   "revision": "cm-12.1"
+  },
+  {
+  "remote": "github",
+  "repository": "TeamEOS/external_tinyalsa",
+  "target_path": "external/tinyalsa",
+  "revision": "lp5.1"
+  },
+  {
+  "remote": "github",
+  "repository": "TeamEOS/hardware_ril",
+  "target_path": "hardware/ril",
+  "revision": "lp5.1"
   }
+
 ]
